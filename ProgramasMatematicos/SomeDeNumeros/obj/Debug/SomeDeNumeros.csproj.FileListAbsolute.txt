@@ -1,0 +1,6 @@
+C:\Users\caio.csanches\Documents\ProgramasMatematicos\SomeDeNumeros\bin\Debug\SomeDeNumeros.exe.config
+C:\Users\caio.csanches\Documents\ProgramasMatematicos\SomeDeNumeros\bin\Debug\SomeDeNumeros.exe
+C:\Users\caio.csanches\Documents\ProgramasMatematicos\SomeDeNumeros\bin\Debug\SomeDeNumeros.pdb
+C:\Users\caio.csanches\Documents\ProgramasMatematicos\SomeDeNumeros\obj\Debug\SomeDeNumeros.csprojAssemblyReference.cache
+C:\Users\caio.csanches\Documents\ProgramasMatematicos\SomeDeNumeros\obj\Debug\SomeDeNumeros.exe
+C:\Users\caio.csanches\Documents\ProgramasMatematicos\SomeDeNumeros\obj\Debug\SomeDeNumeros.pdb
